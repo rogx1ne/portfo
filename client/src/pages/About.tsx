@@ -157,10 +157,10 @@ export default function About() {
                   <div className="absolute left-4 top-0 bottom-0 w-px bg-gradient-to-b from-primary via-accent to-primary/20" />
                   <div className="space-y-8 pl-12">
                     {[
-                      { year: "2021", title: "Started BCA", desc: "Began my formal journey into computer science" },
-                      { year: "2022", title: "First Projects", desc: "Built my first web applications with React" },
-                      { year: "2023", title: "Internship", desc: "Gained real-world experience as a frontend developer" },
-                      { year: "2024", title: "Full-Stack", desc: "Expanded to full-stack development with Node.js" },
+                      { year: "2023", title: "Started BCA", desc: "Began my formal journey into computer science" },
+                      { year: "2024", title: "First Projects", desc: "Built my first web applications with React" },
+                      //{ year: "2023", title: "Internship", desc: "Gained real-world experience as a frontend developer" },
+                      { year: "2025", title: "Full-Stack", desc: "Expanded to full-stack development with Node.js" },
                     ].map((item, index) => (
                       <motion.div
                         key={item.year}
