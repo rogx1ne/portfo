@@ -138,7 +138,7 @@ export const projects: Project[] = [
     title: "Portfolio Website",
     description: "This very portfolio website! Built with Three.js for 3D visuals, Framer Motion for animations, and a Gen-Z dark rave aesthetic.",
     techStack: ["React", "Three.js", "Framer Motion", "TypeScript"],
-    githubUrl: "https://github.com/alexj/portfolio",
+    githubUrl: "https://github.com/rogx1ne/portfo",
     highlightTag: "Latest",
   },
   
